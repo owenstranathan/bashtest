@@ -42,6 +42,6 @@ And hopefully you'll have colors too!
 ## Installation 
 
 ```
-curl -O <this-url>
+curl -O https://raw.githubusercontent.com/owenstranathan/bashtest/master/bashtest.sh
 install bashtest.sh ~/.local/bin/bashtest
 ```
