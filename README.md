@@ -26,7 +26,7 @@ test_some_things.sh
 test_echo_to_file ✔
 test_nothing_useful ✘
 ========================
-This text will be read
+This text will be red
 ========================
 test_system_type.sh
 test_linux_users_only ✘
